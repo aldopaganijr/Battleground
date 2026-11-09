@@ -9,7 +9,7 @@ This is the final project from my **Claude Code for Beginners: Thrive in the AI 
 
 ## 🎮 Battleground Preview
 
-![Battleground Game Preview](./battleground-preview.png)
+![Battleground Game Preview](./battleground-preview.jpg)
 
 ## 🎮 What is Battleground?
 
